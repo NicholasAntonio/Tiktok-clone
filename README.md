@@ -1,6 +1,6 @@
-<p align="center">
-<img src=".Github/preview.mp4" alt="demonstração projeto" width="100%">
-</p>
+
+  ![preview (2)](https://github.com/NicholasAntonio/Tiktok-clone/assets/132156803/057ce831-8d58-41dd-bfb6-e42f8d3b473f)
+
 
 ## 🖥️ Projeto
 
